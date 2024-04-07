@@ -1,2 +1,2 @@
-![Uploading screencapture-elerinvs23-ikt-khk-ee-ToDoApp-2024-04-07-16_21_01.png…]()
-![screencapture-elerinvs23-ikt-khk-ee-ToDoApp-2024-04-07-16_17_59](https://github.com/elerinnoorkoiv/ToDoApp/assets/145442271/9a7b2f90-56c6-4f4c-8ed8-42dba6f74ba7)
+![screencapture-elerinvs23-ikt-khk-ee-ToDoApp-2024-04-07-16_21_01](https://github.com/elerinnoorkoiv/ToDoApp/assets/145442271/d8eed4fe-8278-4344-9313-4a012cb7c42d)
+![screencapture-elerinvs23-ikt-khk-ee-ToDoApp-2024-04-07-16_17_59](https://github.com/elerinnoorkoiv/ToDoApp/assets/145442271/e9465084-9f3a-4ef1-ac2c-e8df6711de0d)
